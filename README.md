@@ -12,15 +12,18 @@ Assistant bots
 * Microsoft Cortana
 * Alibaba AliMe
 
+Tutorials:
+* [Deep Learning for Dialogue Systems, ACL2017](https://www.csie.ntu.edu.tw/~yvchen/doc/DeepDialogue_Tutorial_ACL.pdf)
+* [Deep Chit-Chat: Deep Learning for ChatBots. EMNLP'18.](http://www.ruiyan.me/pubs/tutorial-emnlp18.pdf)
+
 Industry bots:
 * [AliMe Assist: An Intelligent Assistant for Creating an Innovative E-commerce Experience](https://arxiv.org/abs/1801.05032)
 * [SuperAgent: A Customer Service Chatbot for E-commerce Websites](https://www.microsoft.com/en-us/research/publication/superagent-customer-service-chatbot-e-commerce-websites/)
 
 IR for QA matching:
-* [Z. Ji, Z. Lu, and H. Li. 2014. An Information Retrieval Approach to Short Text Conversation. CoRR abs/1408.6988 (2014).]
-* [R. Yan, Y. Song, and H. Wu. 2016. Learning to Respond with Deep Neural Networks for Retrieval-Based Human-Computer Conversation System. In SIGIR.]
-* [R. Yan, D. Zhao, and W. E. 2017. Joint Learning of Response Ranking and Next
-* Utterance Suggestion in Human-Computer Conversation System. In SIGIR ’17.]
+* [Z. Ji, Z. Lu, and H. Li. 2014. An Information Retrieval Approach to Short Text Conversation. CoRR abs/1408.6988 (2014).](https://arxiv.org/abs/1408.6988)
+* [R. Yan, Y. Song, and H. Wu. 2016. Learning to Respond with Deep Neural Networks for Retrieval-Based Human-Computer Conversation System. In SIGIR.](http://www.ruiyan.me/pubs/SIGIR2016.pdf)
+* [R. Yan, D. Zhao, and W. E. 2017. Joint Learning of Response Ranking and Next Utterance Suggestion in Human-Computer Conversation System. In SIGIR ’17.]
 * [Response Ranking with Deep Matching Networks and External Knowledge. (AliMe)](https://arxiv.org/abs/1805.00188)
 * [Transfer Learning on Retrieval-based Question Answering Systems. (AliMe)](https://arxiv.org/abs/1806.05434)
 * [Transfer Learning for Context-Aware Question Matching. (AliMe)](https://arxiv.org/abs/1806.05434)
