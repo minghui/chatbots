@@ -36,5 +36,15 @@ Response Generation:
 * [A Diversity-Promoting Objective Function for Neural Conversation Models. Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao and Bill Dolan. NAACL 2016]
 
 Hybrid models:
-* [AliMe Chat: a Sequence to Sequence and Rerank Based Chatbot Engine.](https://www.aclweb.org/anthology/P/P17/P17-2079.pdf)
+* [L. Yang, J. Hu, M. Qiu, C. Qu, J. Gao, et al., A Hybrid Retrieval-Generation Neural Conversation Model.](https://arxiv.org/abs/1904.09068)
+* [Y. Song, C. Li, J. Nie, M. Zhang, D. Zhao, and R. Yan. 2018. An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems. In IJCAI ’18.](https://www.ijcai.org/proceedings/2018/609)
+* [M. Qiu, et al., AliMe Chat: a Sequence to Sequence and Rerank Based Chatbot Engine.](https://www.aclweb.org/anthology/P/P17/P17-2079.pdf)
+
+MRC for QA:
+* [E. Choi, H. He, M. Iyyer, M. Yatskar, W. Yih, Y. Choi, P. Liang, and L. S. Zettlemoyer. QuAC: Question Answering in Context. In EMNLP, 2018.]
+* [S. Reddy, D. Chen, and C. D. Manning. CoQA: A Conversational Question
+Answering Challenge. CoRR, abs/1808.07042, 2018.]
+* [P. Rajpurkar, R. Jia, and P. Liang. Know What You Don’t Know: Unanswerable
+Questions for SQuAD. In ACL, 2018.]
+* [C. Qu, L. Yang, M. Qiu et al., Attentive History Selection for Conversational Question Answering.](https://arxiv.org/abs/1908.09456)
 
